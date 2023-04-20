@@ -1,3 +1,3 @@
 # Final_Project
 
-# yes
+# This website will be my final project for my Digital Product Management class. 
